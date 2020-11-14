@@ -27,7 +27,7 @@ state={
     params:{
       part: 'snippet',
       maxResults:5,
-      key:'AIzaSyAVje458knWEEt1DrgMazq8e3AfdIo_jf8',   
+      key:'your_own_key',   
       q: searchTerm,
 
   }
